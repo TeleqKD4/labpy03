@@ -77,4 +77,4 @@ print("\nTotal Keuntungan selama 8 bulan:", total_keuntungan, "juta")
 # Hasil Codingan
 ![flowchart](output_ATM.png)
 # Penjelasan
-dalam codingan kali ini kita akan membuat sistem penrikan saldo dari ATM. jadi sistem awalnya adalah anda akan di beri 2 bipihan yaitu "1" dan "2". pilihan satu adalah peintah untuk memasukan jumlah uang yang ingin di tarik dan saldo anda akan di kurangi jumlah penarikan yang anda masukan, dan pilihan yang ke dua adalah perintah selesai. 
+dalam codingan kali ini kita akan membuat sistem penrikan saldo dari ATM. jadi sistem awalnya adalah anda akan di beri 2 pilihan yaitu "1" dan "2". pilihan satu adalah peintah untuk memasukan jumlah uang yang ingin di tarik dan saldo anda akan di kurangi jumlah penarikan yang anda masukan, dan pilihan yang ke dua adalah perintah selesai. 
